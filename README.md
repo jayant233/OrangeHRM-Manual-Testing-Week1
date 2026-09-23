@@ -8,7 +8,7 @@ End-to-end manual QA project on the **OrangeHRM Open Source demo** application: 
 | **URL** | https://opensource-demo.orangehrmlive.com/ |
 | **Credentials** | `Admin` / `admin123` (publicly published demo credentials) |
 | **Testing type** | Manual, black-box, functional |
-| **Test period** | 15 – 16 September 2026 |
+| **Test period** | 17 august – 16 September 2026 |
 | **Tester** | Jayant Bansal |
 
 ---
